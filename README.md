@@ -1,0 +1,1 @@
+# VerificadorEt-rio-react-native
